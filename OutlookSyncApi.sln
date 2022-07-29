@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookSyncApi", "OutlookSyncApi\OutlookSyncApi.csproj", "{927CE1E5-31D4-4425-B93C-84D29B74A745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927CE1E5-31D4-4425-B93C-84D29B74A745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927CE1E5-31D4-4425-B93C-84D29B74A745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927CE1E5-31D4-4425-B93C-84D29B74A745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927CE1E5-31D4-4425-B93C-84D29B74A745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFAF03C-E5F4-4111-828A-8A0D0F4292AA}
+	EndGlobalSection
+EndGlobal
